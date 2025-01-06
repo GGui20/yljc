@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.3" pages="2">
   <diagram name="第 1 页" id="YBAfgeKlm1JRsz-JXrIm">
     <mxGraphModel dx="1454" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,6 +50,130 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="520" as="sourcePoint" />
             <mxPoint x="570" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="s1IKK2wiDJBky49Kvrq6" name="第 2 页">
+    <mxGraphModel dx="996" dy="1746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UGG-ecZJ0gSMwMltJB5s-5" value="&lt;span style=&quot;color: rgb(44, 44, 54); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; letter-spacing: 0.08px; text-align: start; white-space-collapse: preserve; background-color: rgb(153, 204, 255);&quot;&gt;患者&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0,&quot;dashed&quot;:1,&quot;strokeColor&quot;:&quot;#CCCCCC&quot;};fillColor=#dae8fc;strokeColor=light-dark(#a7a8a9, #5c79a3);dashed=1;" vertex="1" parent="1">
+          <mxGeometry y="-820" width="100" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="-JfH_kGM0d1Rd12SGQtk-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UGG-ecZJ0gSMwMltJB5s-5">
+          <mxGeometry x="45" y="80" width="10" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="UGG-ecZJ0gSMwMltJB5s-6" value="&lt;span style=&quot;color: rgb(44, 44, 54); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; letter-spacing: 0.08px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;数据库&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="440" y="-818" width="100" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="UGG-ecZJ0gSMwMltJB5s-7" value="&lt;span style=&quot;color: rgb(44, 44, 54); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; letter-spacing: 0.08px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;后端服务&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="297" y="-818" width="100" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="-JfH_kGM0d1Rd12SGQtk-27" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="UGG-ecZJ0gSMwMltJB5s-7">
+          <mxGeometry x="45" y="78" width="10" height="432" as="geometry" />
+        </mxCell>
+        <mxCell id="UGG-ecZJ0gSMwMltJB5s-8" value="&lt;span style=&quot;color: rgb(44, 44, 54); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; letter-spacing: 0.08px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;用户界面&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="150" y="-818" width="100" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="UGG-ecZJ0gSMwMltJB5s-9" value="&lt;span style=&quot;color: rgb(44, 44, 54); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; letter-spacing: 0.08px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;管理员&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="727" y="-820" width="100" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="UGG-ecZJ0gSMwMltJB5s-10" value="&lt;span style=&quot;color: rgb(44, 44, 54); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;Noto Sans&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;; font-size: 16px; letter-spacing: 0.08px; text-align: start; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;医生&lt;/span&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="590" y="-818" width="100" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="-JfH_kGM0d1Rd12SGQtk-5" value="1.患者登录系统" style="html=1;endArrow=block;curved=0;rounded=0;align=center;" edge="1" parent="1" source="-JfH_kGM0d1Rd12SGQtk-26" target="-JfH_kGM0d1Rd12SGQtk-27">
+          <mxGeometry x="0.0135" width="80" relative="1" as="geometry">
+            <mxPoint x="90" y="-630" as="sourcePoint" />
+            <mxPoint x="170" y="-630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="-730" />
+              <mxPoint x="250" y="-730" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JfH_kGM0d1Rd12SGQtk-17" value="" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="-JfH_kGM0d1Rd12SGQtk-27" target="-JfH_kGM0d1Rd12SGQtk-26">
+          <mxGeometry x="-0.0473" relative="1" as="geometry">
+            <mxPoint x="348.5" y="-700" as="sourcePoint" />
+            <mxPoint x="51.5" y="-700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="112" y="-700" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JfH_kGM0d1Rd12SGQtk-18" value="2. 哈哈哈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-JfH_kGM0d1Rd12SGQtk-17">
+          <mxGeometry x="-0.0388" y="1" relative="1" as="geometry">
+            <mxPoint x="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JfH_kGM0d1Rd12SGQtk-20" value="7.患者登录系统" style="html=1;endArrow=block;curved=0;rounded=0;align=center;" edge="1" parent="1" source="-JfH_kGM0d1Rd12SGQtk-26" target="-JfH_kGM0d1Rd12SGQtk-27">
+          <mxGeometry x="0.0135" width="80" relative="1" as="geometry">
+            <mxPoint x="51.5" y="-630" as="sourcePoint" />
+            <mxPoint x="348.5" y="-630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="131.5" y="-630" />
+              <mxPoint x="251.5" y="-630" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JfH_kGM0d1Rd12SGQtk-21" value="20.患者登录系统" style="html=1;endArrow=block;curved=0;rounded=0;align=center;" edge="1" parent="1" source="-JfH_kGM0d1Rd12SGQtk-26" target="-JfH_kGM0d1Rd12SGQtk-27">
+          <mxGeometry x="0.0135" width="80" relative="1" as="geometry">
+            <mxPoint x="40" y="-460" as="sourcePoint" />
+            <mxPoint x="337" y="-460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="-460" />
+              <mxPoint x="240" y="-460" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JfH_kGM0d1Rd12SGQtk-22" value="17.患者登录系统" style="html=1;endArrow=block;curved=0;rounded=0;align=center;" edge="1" parent="1" source="-JfH_kGM0d1Rd12SGQtk-26" target="-JfH_kGM0d1Rd12SGQtk-27">
+          <mxGeometry x="0.0135" width="80" relative="1" as="geometry">
+            <mxPoint x="51.5" y="-510" as="sourcePoint" />
+            <mxPoint x="348.5" y="-510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="131.5" y="-510" />
+              <mxPoint x="251.5" y="-510" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JfH_kGM0d1Rd12SGQtk-23" value="23.患者登录系统" style="html=1;endArrow=block;curved=0;rounded=0;align=center;" edge="1" parent="1" source="-JfH_kGM0d1Rd12SGQtk-26" target="-JfH_kGM0d1Rd12SGQtk-27">
+          <mxGeometry x="-0.0572" width="80" relative="1" as="geometry">
+            <mxPoint x="60" y="-400" as="sourcePoint" />
+            <mxPoint x="357" y="-400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="-400" />
+              <mxPoint x="260" y="-400" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JfH_kGM0d1Rd12SGQtk-24" value="3.患者登录系统" style="html=1;endArrow=block;curved=0;rounded=0;align=center;" edge="1" parent="1" source="-JfH_kGM0d1Rd12SGQtk-26" target="-JfH_kGM0d1Rd12SGQtk-27">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="51.5" y="-670" as="sourcePoint" />
+            <mxPoint x="348.5" y="-670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="131.5" y="-670" />
+              <mxPoint x="251.5" y="-670" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JfH_kGM0d1Rd12SGQtk-25" value="26.患者登录系统" style="html=1;endArrow=block;curved=0;rounded=0;align=center;" edge="1" parent="1">
+          <mxGeometry x="-0.0572" width="80" relative="1" as="geometry">
+            <mxPoint x="56.5" y="-340" as="sourcePoint" />
+            <mxPoint x="343.5" y="-340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="151.5" y="-340" />
+              <mxPoint x="271.5" y="-340" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
